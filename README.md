@@ -88,10 +88,7 @@ Not looking for magic — looking for the log line that explains the crash.
 <img src="https://raw.githubusercontent.com/BabyNejii/BabyNejii/profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile details" />
 
 <img width="49%" src="https://raw.githubusercontent.com/BabyNejii/BabyNejii/profile-summary-card-output/github_dark/3-stats.svg" alt="stats" />
-<img width="49%" src="https://raw.githubusercontent.com/BabyNejii/BabyNejii/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="repos per language" />
-
 <img width="49%" src="https://raw.githubusercontent.com/BabyNejii/BabyNejii/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="most commit language" />
-<img width="49%" src="https://raw.githubusercontent.com/BabyNejii/BabyNejii/profile-summary-card-output/github_dark/4-productive-time.svg" alt="productive time" />
 
 <br/><br/>
 
