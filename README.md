@@ -69,8 +69,6 @@ Not looking for magic — looking for the log line that explains the crash.
 **Security & Systems**
 
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00FF41)
-![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00FF41)
 ![Networking](https://img.shields.io/badge/Networking-0d1117?style=for-the-badge&logo=cisco&logoColor=00FF41)
 
 **Tools**
@@ -80,20 +78,25 @@ Not looking for magic — looking for the log line that explains the crash.
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00FF41)
 
-> <sub>⚠️ Some tools above are part of my active learning path, not claimed mastery — swap/trim freely.</sub>
-
 ---
 
 ## `~/github-stats`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BabyNejii&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41&include_all_commits=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabyNejii&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" alt="top languages" />
+<!-- Auto-generated daily by .github/workflows/profile-summary-cards.yml (committed SVGs — never break) -->
+<img src="https://raw.githubusercontent.com/BabyNejii/BabyNejii/profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile details" />
 
+<img width="49%" src="https://raw.githubusercontent.com/BabyNejii/BabyNejii/profile-summary-card-output/github_dark/3-stats.svg" alt="stats" />
+<img width="49%" src="https://raw.githubusercontent.com/BabyNejii/BabyNejii/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="repos per language" />
+
+<img width="49%" src="https://raw.githubusercontent.com/BabyNejii/BabyNejii/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="most commit language" />
+<img width="49%" src="https://raw.githubusercontent.com/BabyNejii/BabyNejii/profile-summary-card-output/github_dark/4-productive-time.svg" alt="productive time" />
+
+<br/><br/>
+
+<!-- Streak card (served live; this endpoint is reliable) -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BabyNejii&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=BabyNejii&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
 
 </div>
 
