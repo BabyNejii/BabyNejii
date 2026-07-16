@@ -121,3 +121,5 @@ Not looking for magic — looking for the log line that explains the crash.
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by.+Now+get+back+to+work.;connection+closed+by+remote+host." alt="footer" />
 
 </div>
+
+<!-- rev: cache-bust -->
