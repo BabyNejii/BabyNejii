@@ -20,10 +20,22 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
-      - name: Generate summary cards
+
+      - name: Generate summary cards (no auto-push)
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: profile-summary-card-output
+          AUTO_PUSH: false
+
+      - name: Show generated files
+        run: ls -R profile-summary-card-output || echo "output folder not found"
+
+      - name: Publish cards to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: profile-summary-card-output
+          build_dir: profile-summary-card-output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
